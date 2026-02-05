@@ -9,7 +9,6 @@
 <body>
 <div class="container">
     <h1>Dokumentacja Państowej Straży Pożarnej</h1>
-    <h2>Państwowa Straż Pożarna</h2>
 
     <div class="tab-buttons">
         <button class="tab-btn active">Raport z wyjazdu</button>
