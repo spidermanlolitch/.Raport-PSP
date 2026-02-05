@@ -1,17 +1,15 @@
-# RAPORT PSP
-<!DOCTYPE html>
 <html lang="pl">
 <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Raporty | PSP Summer RP</title>
+    <title>Raporty - PSP Summer RP</title>
     <link rel="icon" href="/PSP.png">
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
 <div class="container">
     <h1>Dokumentacja Państowej Straży Pożarnej</h1>
-    <h2>Państwowa Straż Pożarna – Summer RP</h2>
+    <h2>Państwowa Straż Pożarna</h2>
 
     <div class="tab-buttons">
         <button class="tab-btn active">Raport z wyjazdu</button>
